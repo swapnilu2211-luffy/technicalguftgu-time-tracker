@@ -11,7 +11,7 @@
     <title>Super Simple Example Webpage</title>
 </head>
 <body>
-  <h1>Deployed Automatically Using Jenkins</h1>
+  <h1>Jenkins CI/CD Pipeline Working Automatically</h1>
   <p>
     This is a very simple example web page on a JSP.
   </p>
